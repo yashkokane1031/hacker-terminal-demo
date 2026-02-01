@@ -6,10 +6,13 @@
 
 [![React](https://img.shields.io/badge/React-19.2-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-7.2-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Vercel](https://img.shields.io/badge/Deployed-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hacker-terminal-demo.vercel.app/)
 
 ---
 
 *Because every developer needs a terminal that tells dad jokes while looking absolutely elite* 🧑‍💻
+
+**[🚀 Try the Live Demo](https://hacker-terminal-demo.vercel.app/)**
 
 </div>
 
@@ -17,7 +20,7 @@
 
 ## 📸 Preview
 
-> 🚧 Add a GIF or screenshot of the terminal in action here!
+![Hacker Terminal in action - showing a programming joke](screenshots/terminal.png)
 
 ---
 
